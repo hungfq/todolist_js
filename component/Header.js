@@ -3,7 +3,7 @@ import html from "../core.js";
 function Header() {
     return html`
     <header class="header">
-        <h1>tu đu ét</h1></h1>
+        <h1>todo list</h1>
         <input 
             class="new-todo" 
             placeholder="What needs to be done?" 
